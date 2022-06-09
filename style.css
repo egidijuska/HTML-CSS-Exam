@@ -1,0 +1,14 @@
+* {
+    margin: 0.5rem;
+}
+/* .logo {
+    height: 30px;
+} */
+.burger {
+ height: 30px;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
